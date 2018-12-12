@@ -1,9 +1,5 @@
 language: go
 
-go:
-  - 1.7.x
-  - master
-
 notifications:
   email:
     recipients:
